@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        I try to switch all this!
+        I try to switch all this! done! again!
       </p>
     </>
   )
